@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.66160c94.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.a18f9eaf.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.a18f9eaf.chunk.js.map",
+    "runtime-main.js": "/shopping-cart/static/js/runtime-main.b6a2e420.js",
+    "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.b6a2e420.js.map",
+    "static/js/2.0739d875.chunk.js": "/shopping-cart/static/js/2.0739d875.chunk.js",
+    "static/js/2.0739d875.chunk.js.map": "/shopping-cart/static/js/2.0739d875.chunk.js.map",
+    "index.html": "/shopping-cart/index.html",
+    "static/css/main.66160c94.chunk.css.map": "/shopping-cart/static/css/main.66160c94.chunk.css.map",
+    "static/js/2.0739d875.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.0739d875.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/shopping-cart/static/media/Hero.0f18ee8b.png",
+    "static/media/counter-culture-coffee-big-trouble-whole-bean-coffee.06ee741f.jpg": "/shopping-cart/static/media/counter-culture-coffee-big-trouble-whole-bean-coffee.06ee741f.jpg",
+    "static/media/death-wish-coffee-co-whole-bean-coffee.fa4f2dcf.jpg": "/shopping-cart/static/media/death-wish-coffee-co-whole-bean-coffee.fa4f2dcf.jpg",
+    "static/media/dope-coffee-organic-guatemalan-coffee-beans.9791a115.jpg": "/shopping-cart/static/media/dope-coffee-organic-guatemalan-coffee-beans.9791a115.jpg",
+    "static/media/equal-exchange-organic-whole-bean-coffee.a9e41aad.jpg": "/shopping-cart/static/media/equal-exchange-organic-whole-bean-coffee.a9e41aad.jpg",
+    "static/media/grounds-&-hounds-three-blend-starter-kit.98af07db.jpg": "/shopping-cart/static/media/grounds-&-hounds-three-blend-starter-kit.98af07db.jpg",
+    "static/media/la-colombe-corsica-blend.3cf1ac76.jpg": "/shopping-cart/static/media/la-colombe-corsica-blend.3cf1ac76.jpg",
+    "static/media/lavazza-super-crema-coffee-blend.5c3f6700.jpg": "/shopping-cart/static/media/lavazza-super-crema-coffee-blend.5c3f6700.jpg",
+    "static/media/peets-coffee-big-bang-medium-roast.4aa99777.jpg": "/shopping-cart/static/media/peets-coffee-big-bang-medium-roast.4aa99777.jpg",
+    "static/media/stumptown-coffee-roasters-hair-blender-whole-bean-coffee.453e9e01.jpg": "/shopping-cart/static/media/stumptown-coffee-roasters-hair-blender-whole-bean-coffee.453e9e01.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6a2e420.js",
+    "static/js/2.0739d875.chunk.js",
+    "static/css/main.66160c94.chunk.css",
+    "static/js/main.a18f9eaf.chunk.js"
+  ]
+}
