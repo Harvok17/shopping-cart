@@ -1,6 +1,23 @@
 # Shopping Cart
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and demonstrates the use of React Router.
+An e-commerce page with shopping-cart capabilities.
+
+### Goal of this project
+
+- Create a multiple page application using react-router-dom
+
+### What I've learned
+
+- How to use different react-router-dom components
+  - Route
+  - BrowserRouter
+  - HashRouter
+  - Switch
+
+### Built with
+
+- React
+- React Router
 
 ### Live DEMO
 
